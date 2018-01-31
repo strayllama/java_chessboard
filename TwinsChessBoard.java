@@ -1,3 +1,12 @@
+/*
+This has been created from flowing stack-overflow: 
+https://stackoverflow.com/questions/21142686/making-a-robust-resizable-swing-chess-gui
+I have only used code that I have understood first and changed all items to customise
+to be how I wished them.
+
+Currently stuck importing the image file of the pieces.... as of late Nov 2017
+*/
+
 import java.awt.*;
 import java.awt.event.*;
 //import java.awt.image.*;  // again i test to help
